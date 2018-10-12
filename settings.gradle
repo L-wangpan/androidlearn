@@ -1,0 +1,1 @@
+include ':app', ':multiprocessapp', ':precess', ':annotation', ':javacode'
