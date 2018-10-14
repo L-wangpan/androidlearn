@@ -1,1 +1,1 @@
-include ':app', ':multiprocessapp', ':precess', ':annotation', ':javacode', ':util'
+include ':app', ':multiprocessapp', ':precess', ':annotation', ':javacode', ':util', ':mudulebus'
