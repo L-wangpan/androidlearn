@@ -2,4 +2,8 @@ package com.ss.android.learn.app
 
 import android.app.Application
 
-class MyApplycation: Application()
+class MyApplication : Application() {
+    override fun onCreate() {
+        super.onCreate()
+    }
+}

@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/javacode" />
             <option value="$PROJECT_DIR$/multiprocessapp" />
             <option value="$PROJECT_DIR$/precess" />
+            <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

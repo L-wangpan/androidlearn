@@ -30,4 +30,5 @@ dependencies {
 
     implementation project(':annotation')
     annotationProcessor project(':precess')
+    implementation project(':util')
 }

@@ -1,4 +1,4 @@
-package com.ss.android.learn.view;
+package com.ss.android.util;
 
 import android.annotation.TargetApi;
 import android.app.Activity;
@@ -26,7 +26,6 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 
-import com.ss.android.learn.R;
 
 import java.lang.reflect.Method;
 import java.util.concurrent.atomic.AtomicInteger;
